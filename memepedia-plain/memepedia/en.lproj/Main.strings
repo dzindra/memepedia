@@ -1,0 +1,13 @@
+
+
+/* Class = "UINavigationItem"; title = "MEME GENERATOR"; ObjectID = "Ab1-hW-kbA"; */
+"Ab1-hW-kbA.title" = "MEME GENERATOR";
+
+/* Class = "UINavigationItem"; title = "LIST OF MEMES"; ObjectID = "N4V-gS-I2S"; */
+"N4V-gS-I2S.title" = "LIST OF MEMES";
+
+/* Class = "UITabBarItem"; title = "List of memes"; ObjectID = "QQV-Rq-L4J"; */
+"QQV-Rq-L4J.title" = "List of memes";
+
+/* Class = "UITabBarItem"; title = "Generator"; ObjectID = "eon-VY-wVp"; */
+"eon-VY-wVp.title" = "Meme generator";
